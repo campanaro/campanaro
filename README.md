@@ -1,5 +1,5 @@
 # Adriano Campanaro
-[![Linkedin Badge](https://img.shields.io/badge/-adrianocampanaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianocampanaro/)](https://www.linkedin.com/in/adrianocampanaro/) [![Gmail Badge](https://img.shields.io/badge/-adrianocampanaro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sturk.ru@gmail.com)](adrianocampanaro@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-adrianocampanaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianocampanaro/)](https://www.linkedin.com/in/adrianocampanaro/) [![Gmail Badge](https://img.shields.io/badge/-adrianocampanaro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianocampanaro@gmail.com)](adrianocampanaro@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=campanaro)
 
