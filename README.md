@@ -1,7 +1,9 @@
 # Adriano Campanaro
-[![Linkedin Badge](https://img.shields.io/badge/-adrianocampanaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianocampanaro/)](https://www.linkedin.com/in/adrianocampanaro/) [![Gmail Badge](https://img.shields.io/badge/-adrianocampanaro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianocampanaro@gmail.com)](adrianocampanaro@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-adrianocampanaro-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adrianocampanaro/)](https://www.instagram.com/adrianocampanaro/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=campanaro)
+Master's degree, Software Engineering - Pontifícia Universidade Católica de Minas Gerais.
+Bachelor of Engineering - BE, Computer Engineering with emphasis in Software Engineering - Universidade Metodista de São Paulo.
+
+[![Linkedin Badge](https://img.shields.io/badge/-adrianocampanaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianocampanaro/)](https://www.linkedin.com/in/adrianocampanaro/) [![Gmail Badge](https://img.shields.io/badge/-adrianocampanaro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianocampanaro@gmail.com)](adrianocampanaro@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-adrianocampanaro-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adrianocampanaro/)](https://www.instagram.com/adrianocampanaro/)
 
 <!--
 **campanaro/campanaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
