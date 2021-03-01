@@ -1,5 +1,5 @@
 # Adriano Campanaro
-[![Linkedin Badge](https://img.shields.io/badge/-adrianocampanaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianocampanaro/)](https://www.linkedin.com/in/adrianocampanaro/) [![Gmail Badge](https://img.shields.io/badge/-adrianocampanaro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianocampanaro@gmail.com)](adrianocampanaro@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-adrianocampanaro-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adrianocampanaro/)
+[![Linkedin Badge](https://img.shields.io/badge/-adrianocampanaro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianocampanaro/)](https://www.linkedin.com/in/adrianocampanaro/) [![Gmail Badge](https://img.shields.io/badge/-adrianocampanaro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianocampanaro@gmail.com)](adrianocampanaro@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-adrianocampanaro-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adrianocampanaro/)](https://www.instagram.com/adrianocampanaro/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=campanaro)
 
